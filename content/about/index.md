@@ -33,9 +33,6 @@ page_type:
       <a href="#i"><span class="toc_number toc_depth_1">2</span> 告知</a>
     </li>
     <li>
-      <a href="#i-2"><span class="toc_number toc_depth_1">3</span> 臨時のお知らせ</a>
-    </li>
-    <li>
       <a href="#i-3"><span class="toc_number toc_depth_1">4</span> 挨拶</a>
     </li>
     <li>
@@ -59,21 +56,9 @@ page_type:
 
 # <span id="i">告知</span>
 
-カクヨムでの投稿をメインにすることに決めました。
-
-カクヨムの方を覗いていただけますと幸いです。
-
-[**カクヨムユーザーページ**][1]
-
-# <span id="i-2">臨時のお知らせ</span>
-
-2018/09/21-旧名義(非公開)を停止したためここでの名義を｢eizi2002｣に変更しました。
-
-2018/06/25-既に更新途絶えてるけど更新途絶えるよというお知らせを一応載せておきます。再帰は本気で不明です。気が向いたらここじゃなくて[カクヨム][1]で暴れるかもしれません。悪しからず。
+今のところないです。-2020/03/06
 
 2019/10/05-｢eizi2002｣から｢荒木英治｣に名義変更します。本名義はLeies(レイエス)です。
-
-&nbsp;
 
 # <span id="i-3">挨拶</span>
 
@@ -89,7 +74,7 @@ page_type:
 
 ## <span id="i-5">【投稿サイト分けついて】</span>
 
-基本的にこのサイトと[カクヨム][1]で投稿予定です。
+基本的にこのサイトと[カクヨム][1]（なろうと同時投稿かも）で投稿予定です。
   
 カクヨムでの投稿が基本ですが過激表現などこれ規約引っかからない？ねぇ？って感じのやつはここで投稿になると思います。
 
@@ -105,9 +90,9 @@ page_type:
 
 ## <span id="i-7">【著作権及び名義について】</span>
 
-僕は大まかに2つ名義がありますが、当サイト及び小説の著作者名は｢eizi2002｣とします。
+私は大まかに2つ名義がありますが、当サイト及び小説の著作者名は｢荒木英治｣とします。
 
-著作権は作成者である<a href="https://eizi2002.ie-t.net/" target="_blank" rel="noopener noreferrer">eizi2002</a>(<a href="https://twitter.com/eizi2002" target="_blank" rel="noopener noreferrer">@eizi2002</a>)に帰属します。
+著作権は作成者である<a href="https://eizi2002.ie-t.net/" target="_blank" rel="noopener noreferrer">Leies_202</a>(<a href="https://twitter.com/Leies_202" target="_blank" rel="noopener noreferrer">@Leies_202</a>)に帰属します。
   
 無断転載はお控えください。
   
