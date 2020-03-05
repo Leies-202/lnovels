@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://novels.lei202.com"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
 title = "lnovels@lei202.com"
@@ -92,7 +92,7 @@ canonifyURLs = true
 
   paragraph = "突然書いてまた遊ぶ。"
 
-  about     = "ここは、レイエスこと荒木英治が、カクヨムやなろうに投げるレベルでもないなって作品を置いておくだけのサイトです。<br>おまけで小説関係のお知らせもここでします。<br>あとここの小説はだいたい黒歴史なので私への言及はおすすめしません。"
+  about     = "ここは、レイエスこと荒木英治が、カクヨムやなろうに投げるレベルでもないなって作品を置いておくだけのサイトです。<br>おまけで小説関係のお知らせもここでします。<br>あとここの小説についてSNSアカウント等に直接言及するのは出来るだけ避けてください。せめてこのサイトのコメント欄（設置中）にしてください…。"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
