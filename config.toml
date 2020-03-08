@@ -92,7 +92,7 @@ canonifyURLs = true
 
   paragraph = "突然書いてまた遊ぶ。"
 
-  about     = "ここは、レイエスこと荒木英治が、カクヨムやなろうに投げるレベルでもないなって作品を置いておくだけのサイトです。<br>おまけで小説関係のお知らせもここでします。<br>あとここの小説についてSNSアカウント等に直接言及するのは出来るだけ避けてください。せめてこのサイトのコメント欄（設置中）にしてください…。"
+  about     = "ここは、レイエスこと荒木英治が、カクヨムやなろうに投げるレベルでもないなって作品を置いておくだけのサイトです。<br>おまけで小説関係のお知らせもここでします。<br>尚、このサイトの小説についてSNSアカウント等に言及する(小説見たよ,その小説の感想etc...)のは(問題がある場合を除いて)出来るだけ避けてください。<br>コメント欄をご活用願います。"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
