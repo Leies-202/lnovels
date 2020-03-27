@@ -1,7 +1,7 @@
 baseurl = "https://novels.lei202.com"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
-title = "lnovels@lei202.com"
+title = "lnovels"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
